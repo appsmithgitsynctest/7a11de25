@@ -1,7 +1,7 @@
 {
   "unpublishedCollection": {
     "name": "ParentJsAction1",
-    "pageId": "ParentPage1",
+    "pageId": "ParentPageRenamed",
     "pluginId": "js-plugin",
     "pluginType": "JS",
     "actionIds": [],
@@ -23,7 +23,7 @@
   },
   "publishedCollection": {
     "name": "ParentJsAction1",
-    "pageId": "ParentPage1",
+    "pageId": "ParentPageRenamed",
     "pluginId": "js-plugin",
     "pluginType": "JS",
     "defaultToBranchedActionIdsMap": {

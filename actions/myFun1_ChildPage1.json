@@ -2,8 +2,8 @@
   "pluginType": "JS",
   "pluginId": "js-plugin",
   "unpublishedAction": {
-    "name": "myFun2",
-    "fullyQualifiedName": "ParentJsAction1.myFun2",
+    "name": "myFun1",
+    "fullyQualifiedName": "ChildJsAction1.myFun1",
     "datasource": {
       "name": "UNUSED_DATASOURCE",
       "pluginId": "js-plugin",
@@ -13,8 +13,8 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "ParentPage1",
-    "collectionId": "61e7c48af0986422bef434ba",
+    "pageId": "ChildPage1",
+    "collectionId": "61e7c4b2f0986422bef434cb",
     "actionConfiguration": {
       "paginationType": "NONE",
       "encodeParamsToggle": true,
@@ -40,8 +40,8 @@
     "userPermissions": []
   },
   "publishedAction": {
-    "name": "myFun2",
-    "fullyQualifiedName": "ParentJsAction1.myFun2",
+    "name": "myFun1",
+    "fullyQualifiedName": "ChildJsAction1.myFun1",
     "datasource": {
       "name": "UNUSED_DATASOURCE",
       "pluginId": "js-plugin",
@@ -51,8 +51,8 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "ParentPage1",
-    "collectionId": "61e7c48af0986422bef434ba",
+    "pageId": "ChildPage1",
+    "collectionId": "61e7c4b2f0986422bef434cb",
     "actionConfiguration": {
       "paginationType": "NONE",
       "encodeParamsToggle": true,
@@ -77,12 +77,12 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "61e7c48af0986422bef434b7",
+  "id": "61e7c4b2f0986422bef434c8",
   "deleted": false,
   "userPermissions": [
     "read:actions",
     "execute:actions",
     "manage:actions"
   ],
-  "gitSyncId": "61e7c451f0986422bef434a0_61e7c47cf0986422bef434ad"
+  "gitSyncId": "61e7c489f0986422bef434b2_61e7c4b2f0986422bef434c7"
 }
