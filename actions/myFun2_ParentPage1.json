@@ -14,7 +14,7 @@
       "userPermissions": []
     },
     "pageId": "ParentPage1",
-    "collectionId": "61e7c47cf0986422bef434b1",
+    "collectionId": "61e7c57ff0986422bef434e7",
     "actionConfiguration": {
       "paginationType": "NONE",
       "encodeParamsToggle": true,
@@ -52,7 +52,7 @@
       "userPermissions": []
     },
     "pageId": "ParentPage1",
-    "collectionId": "61e7c47cf0986422bef434b1",
+    "collectionId": "61e7c57ff0986422bef434e7",
     "actionConfiguration": {
       "paginationType": "NONE",
       "encodeParamsToggle": true,
@@ -77,7 +77,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "61e7c47cf0986422bef434af",
+  "id": "61e7c57ff0986422bef434e4",
   "deleted": false,
   "userPermissions": [
     "read:actions",

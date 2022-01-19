@@ -27,8 +27,8 @@
     "pluginId": "js-plugin",
     "pluginType": "JS",
     "defaultToBranchedActionIdsMap": {
-      "61e7c47cf0986422bef434af": "61e7c47cf0986422bef434af",
-      "61e7c47cf0986422bef434ae": "61e7c47cf0986422bef434ae"
+      "61e7c47cf0986422bef434af": "61e7c57ff0986422bef434e4",
+      "61e7c47cf0986422bef434ae": "61e7c57ff0986422bef434e5"
     },
     "actionIds": [],
     "defaultToBranchedArchivedActionIdsMap": {},
@@ -47,7 +47,7 @@
       }
     ]
   },
-  "id": "61e7c47cf0986422bef434b1",
+  "id": "61e7c57ff0986422bef434e7",
   "deleted": false,
   "userPermissions": [
     "read:actions",
