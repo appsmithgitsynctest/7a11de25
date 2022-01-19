@@ -4,7 +4,66 @@
   "serverSchemaVersion": 1,
   "publishedDefaultPageName": "Page1",
   "unpublishedDefaultPageName": "Page1",
-  "actionCollectionList": [],
+  "actionCollectionList": [
+    {
+      "unpublishedCollection": {
+        "name": "ParentJsAction1",
+        "pageId": "ParentPage1",
+        "pluginId": "js-plugin",
+        "pluginType": "JS",
+        "actionIds": [],
+        "defaultToBranchedArchivedActionIdsMap": {},
+        "archivedActionIds": [],
+        "actions": [],
+        "archivedActions": [],
+        "body": "export default {\n\tmyVar1: [],\n\tmyVar2: {},\n\tmyFun1: () => {\n\t\t//write code here\n\t},\n\tmyFun2: () => {\n\t\t//write code here\n\t}\n}",
+        "variables": [
+          {
+            "name": "myVar1",
+            "value": []
+          },
+          {
+            "name": "myVar2",
+            "value": {}
+          }
+        ]
+      },
+      "publishedCollection": {
+        "name": "ParentJsAction1",
+        "pageId": "ParentPage1",
+        "pluginId": "js-plugin",
+        "pluginType": "JS",
+        "defaultToBranchedActionIdsMap": {
+          "61e7c47cf0986422bef434af": "61e7c48af0986422bef434b7",
+          "61e7c47cf0986422bef434ae": "61e7c48af0986422bef434b9"
+        },
+        "actionIds": [],
+        "defaultToBranchedArchivedActionIdsMap": {},
+        "archivedActionIds": [],
+        "actions": [],
+        "archivedActions": [],
+        "body": "export default {\n\tmyVar1: [],\n\tmyVar2: {},\n\tmyFun1: () => {\n\t\t//write code here\n\t},\n\tmyFun2: () => {\n\t\t//write code here\n\t}\n}",
+        "variables": [
+          {
+            "name": "myVar1",
+            "value": []
+          },
+          {
+            "name": "myVar2",
+            "value": {}
+          }
+        ]
+      },
+      "id": "61e7c48af0986422bef434ba",
+      "deleted": false,
+      "userPermissions": [
+        "read:actions",
+        "execute:actions",
+        "manage:actions"
+      ],
+      "gitSyncId": "61e7c451f0986422bef434a0_61e7c47cf0986422bef434b0"
+    }
+  ],
   "editModeTheme": {
     "name": "Classic",
     "isSystemTheme": true,
